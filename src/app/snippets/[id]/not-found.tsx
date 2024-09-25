@@ -1,8 +1,6 @@
 export default async function SnippetNotFound() {
     return (<div>
-                <h1 className="text-xl bold">
-                    Sorry, but we couldn't find that particular snippet
-                </h1>
+                <h1 className="text-xl bold">Sorry, but we couldnt find that particular snippet</h1>
             </div>
             );
 }
